@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goodzila", "Goodzila\Goodzila.csproj", "{19A4B755-4EC1-4F40-AE08-9A248B0AEA26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "Test\WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{31371387-C63E-4584-A2F3-A42C60458AB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "da", "da\da.csproj", "{A1361E33-C3D2-4E0B-90CD-922B462089B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "db", "db\db.csproj", "{3A33B5C2-2969-4B06-9C0C-183FE1136E57}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs26
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = da\\da.csproj
+		SccProjectName1 = da
+		SccLocalPath1 = da
+		SccProjectUniqueName2 = db\\db.csproj
+		SccProjectName2 = db
+		SccLocalPath2 = db
+		SccProjectUniqueName3 = Goodzila\\Goodzila.csproj
+		SccProjectName3 = Goodzila
+		SccLocalPath3 = Goodzila
+		SccProjectUniqueName4 = Test\\WindowsFormsApplication1\\WindowsFormsApplication1.csproj
+		SccProjectName4 = Test/WindowsFormsApplication1
+		SccLocalPath4 = Test\\WindowsFormsApplication1
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A4B755-4EC1-4F40-AE08-9A248B0AEA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A4B755-4EC1-4F40-AE08-9A248B0AEA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A4B755-4EC1-4F40-AE08-9A248B0AEA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A4B755-4EC1-4F40-AE08-9A248B0AEA26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31371387-C63E-4584-A2F3-A42C60458AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31371387-C63E-4584-A2F3-A42C60458AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31371387-C63E-4584-A2F3-A42C60458AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31371387-C63E-4584-A2F3-A42C60458AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1361E33-C3D2-4E0B-90CD-922B462089B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1361E33-C3D2-4E0B-90CD-922B462089B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1361E33-C3D2-4E0B-90CD-922B462089B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1361E33-C3D2-4E0B-90CD-922B462089B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A33B5C2-2969-4B06-9C0C-183FE1136E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A33B5C2-2969-4B06-9C0C-183FE1136E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A33B5C2-2969-4B06-9C0C-183FE1136E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A33B5C2-2969-4B06-9C0C-183FE1136E57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
